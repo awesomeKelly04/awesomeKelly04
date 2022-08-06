@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @awesomeKelly04
-- 👀 I’m interested in Fullstack Software Engineer Job Role
+- 👀 I’m interested in Java Software Engineer Job Role
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on an Innovative Project
 - 📫 How to reach me emmanueloboh04@gmail.com or +2348138015039
